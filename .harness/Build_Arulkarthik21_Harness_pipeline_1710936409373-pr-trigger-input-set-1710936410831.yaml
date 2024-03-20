@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Arulkarthik21_Harness_pipeline_1710936409373-pr-trigger-input-set
+  identifier: Build_Arulkarthik21_Harness_pipeline_1710936409373prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_Arulkarthik21_Harness_pipeline_1710936409373
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
