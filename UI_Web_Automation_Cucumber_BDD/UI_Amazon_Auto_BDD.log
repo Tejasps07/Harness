@@ -1,0 +1,22 @@
+2024-03-20 16:26:31.066 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:30)] - Excution Started
+2024-03-20 16:26:31.080 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:33)] - Loading the properties file
+2024-03-20 16:26:31.084 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:38)] - Driver is null. Now Instantiating it
+2024-03-20 16:26:43.657 INFO [main] [com.ama.webdriver.manager.DriverManager.launchBrowser(DriverManager.java:32)] - Launching browser chrome
+2024-03-20 16:26:53.067 INFO [main] [com.ama.utilities.CommonUtils.initWebElement(CommonUtils.java:52)] - To intialize the init element
+2024-03-20 16:34:35.146 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:30)] - Excution Started
+2024-03-20 16:34:35.170 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:33)] - Loading the properties file
+2024-03-20 16:34:35.177 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:38)] - Driver is null. Now Instantiating it
+2024-03-20 16:34:35.982 INFO [main] [com.ama.webdriver.manager.DriverManager.launchBrowser(DriverManager.java:32)] - Launching browser chrome
+2024-03-20 16:34:38.860 INFO [main] [com.ama.utilities.CommonUtils.initWebElement(CommonUtils.java:52)] - To intialize the init element
+2024-03-20 16:39:43.158 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:30)] - Excution Started
+2024-03-20 16:39:43.161 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:33)] - Loading the properties file
+2024-03-20 16:39:43.165 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:38)] - Driver is null. Now Instantiating it
+2024-03-20 16:39:43.962 INFO [main] [com.ama.webdriver.manager.DriverManager.launchBrowser(DriverManager.java:32)] - Launching browser chrome
+2024-03-20 16:39:46.234 INFO [main] [com.ama.utilities.CommonUtils.initWebElement(CommonUtils.java:52)] - To intialize the init element
+2024-03-20 16:42:57.130 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:30)] - Excution Started
+2024-03-20 16:42:57.133 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:33)] - Loading the properties file
+2024-03-20 16:42:57.137 INFO [main] [com.ama.step_definitions.Common_Step_Def.beforeScenario(Common_Step_Def.java:38)] - Driver is null. Now Instantiating it
+2024-03-20 16:44:20.815 INFO [main] [com.ama.webdriver.manager.DriverManager.launchBrowser(DriverManager.java:38)] - Launching browser Edge
+2024-03-20 16:44:46.972 INFO [main] [com.ama.utilities.CommonUtils.initWebElement(CommonUtils.java:52)] - To intialize the init element
+2024-03-20 16:44:47.231 INFO [main] [com.ama.step_definitions.Verify_TimeSheets_Step_dep.User_is_logged_in_successfully_and_landed_on_Home_page(Verify_TimeSheets_Step_dep.java:28)] - User is logged in successfully
+2024-03-20 16:46:54.369 INFO [main] [com.ama.step_definitions.Verify_TimeSheets_Step_dep.User_is_logged_in_successfully_and_landed_on_Home_page(Verify_TimeSheets_Step_dep.java:48)] - User is logged in successfully
