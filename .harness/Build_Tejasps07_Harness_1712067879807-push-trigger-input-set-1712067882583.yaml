@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Tejasps07_Harness_1712067879807-push-trigger-input-set
+  identifier: Build_Tejasps07_Harness_1712067879807pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: Harness_POC
+  pipeline:
+    identifier: Build_Tejasps07_Harness_1712067879807
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
