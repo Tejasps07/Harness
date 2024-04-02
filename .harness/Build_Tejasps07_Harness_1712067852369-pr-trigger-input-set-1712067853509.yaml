@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Tejasps07_Harness_1712067852369-pr-trigger-input-set
+  identifier: Build_Tejasps07_Harness_1712067852369prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: Harness_POC
+  pipeline:
+    identifier: Build_Tejasps07_Harness_1712067852369
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
